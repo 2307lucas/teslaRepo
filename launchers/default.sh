@@ -13,7 +13,7 @@ dt-launchfile-init
 # NOTE: Use `dt-exec COMMAND` to run the main process (blocking process)
 
 # launching app
-echo dt-exec python3 -m "my_package.my_script.py"
+dt-exec echo dt-exec python3 -m "my_package.my_script.py"
 
 
 # ----------------------------------------------------------------------------
